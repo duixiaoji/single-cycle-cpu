@@ -1,0 +1,17 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/code/vivado/CPU/CPU.srcs/sources_1/new/acc.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module acc
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/code/vivado/CPU/CPU.srcs/sources_1/new/alu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/code/vivado/CPU/CPU.srcs/sources_1/new/cpu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cpu
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/code/vivado/CPU/CPU.srcs/sources_1/new/cu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cu
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/code/vivado/CPU/CPU.srcs/sources_1/new/data_ram.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module data_ram
+WARNING: [VRFC 10-2019] loop variable declaration is not allowed in this mode of verilog [E:/code/vivado/CPU/CPU.srcs/sources_1/new/data_ram.v:32]
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/code/vivado/CPU/CPU.srcs/sources_1/new/ins_ram.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ins_ram
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/code/vivado/CPU/CPU.srcs/sources_1/new/pc.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pc
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/code/vivado/CPU/CPU.srcs/sim_1/new/cpu_sim.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cpu_sim

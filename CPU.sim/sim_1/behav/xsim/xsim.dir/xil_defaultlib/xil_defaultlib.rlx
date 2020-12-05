@@ -1,0 +1,13 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+E:/code/vivado/CPU/CPU.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+E:/code/vivado/CPU/CPU.srcs/sim_1/new/cpu_sim.v,1593333622,verilog,,,,cpu_sim,,,,,,,,
+E:/code/vivado/CPU/CPU.srcs/sources_1/new/acc.v,1592623401,verilog,,E:/code/vivado/CPU/CPU.srcs/sources_1/new/alu.v,,acc,,,,,,,,
+E:/code/vivado/CPU/CPU.srcs/sources_1/new/alu.v,1592623399,verilog,,E:/code/vivado/CPU/CPU.srcs/sources_1/new/cpu.v,,alu,,,,,,,,
+E:/code/vivado/CPU/CPU.srcs/sources_1/new/cpu.v,1593335791,verilog,,E:/code/vivado/CPU/CPU.srcs/sources_1/new/cu.v,,cpu,,,,,,,,
+E:/code/vivado/CPU/CPU.srcs/sources_1/new/cu.v,1592715333,verilog,,E:/code/vivado/CPU/CPU.srcs/sources_1/new/data_ram.v,,cu,,,,,,,,
+E:/code/vivado/CPU/CPU.srcs/sources_1/new/data_ram.v,1592711358,verilog,,E:/code/vivado/CPU/CPU.srcs/sources_1/new/ins_ram.v,,data_ram,,,,,,,,
+E:/code/vivado/CPU/CPU.srcs/sources_1/new/ins_ram.v,1593336094,verilog,,E:/code/vivado/CPU/CPU.srcs/sources_1/new/pc.v,,ins_ram,,,,,,,,
+E:/code/vivado/CPU/CPU.srcs/sources_1/new/pc.v,1593336086,verilog,,E:/code/vivado/CPU/CPU.srcs/sim_1/new/cpu_sim.v,,pc,,,,,,,,
